@@ -10,5 +10,6 @@ Below is the notes for code 301 topics.
 | Read 2                                                    | [PAIR PROGRAMMING](./read2.md)                       |
 | Read 3                                                    | [MUSTACHE and FLEXBOX](./read3.md)                   |
 | Read 4                                                    |  There is no reading notes for this day              |
+| Read 5                                                    |  There is no reading notes for this day              |
 
 

@@ -11,5 +11,6 @@ Below is the notes for code 301 topics.
 | Read 3                                                    | [MUSTACHE and FLEXBOX](./read3.md)                   |
 | Read 4                                                    |  There is no reading notes for this day              |
 | Read 5                                                    |  There is no reading notes for this day              |
+| Read 6                                                    | [NODE.JS](./read6.md)                   |
 
 

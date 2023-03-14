@@ -14,4 +14,4 @@ Below is the notes for code 301 topics.
 | Read 6                                                    | [NODE.JS](./read6.md)                                |
 | Read 7                                                    |  There is no reading notes for this day              |
 | Read 8                                                    |  [SQL](./read8.md)                                   |
-
+| Read 9                                                    |  [Refactoring Javascript for Readability](./read9.md)|
